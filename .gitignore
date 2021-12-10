@@ -1,0 +1,8 @@
+/.bundle/
+
+*.gem
+
+Gemfile.lock
+/vendor/bundle/
+/lib/statsailr_ide/glade/obs/
+/lib/statsailr_ide/glade/*~
